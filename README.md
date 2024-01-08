@@ -1,7 +1,7 @@
 DUYGU TEMELLİ RESTORAN TAVSİYESİ 
 
-02200201068 Özge Alma
-02200201056 Asuman Bucak 
-02200201062 Fatıma Betül Memduhoğlu
-02190201016 Yaren Ünsal 
+02200201068 Özge Alma /n
+02200201056 Asuman Bucak /n
+02200201062 Fatıma Betül Memduhoğlu /n
+02190201016 Yaren Ünsal /n
 02200201059 Rabia Ok
